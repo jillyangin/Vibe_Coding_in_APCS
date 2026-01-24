@@ -4,6 +4,7 @@
 
 [如何整理儲存chatgpt 產出的資料 講座介紹 -- Markdown 介紹](https://www.codingcoffee.org/courses/juniorcodingcoffee)
 
+[Markdown 常見使用](https://github.com/CodingCoffee-01/GenAI_answer/blob/main/Markdown_Latex.md)
 
 
 | **學習目標** |  | 了解 Vibe Coding .與 在程式學習過程 Vibe Coding 工具對你的幫助 |
