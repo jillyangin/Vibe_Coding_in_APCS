@@ -1,9 +1,9 @@
 ## 這是酷課雲 寒假講座 -- 是"Vibe APCS “,是好事嗎？
 
-9:00 ~ 9:30 什麼是LLM 
-9:30 ~ 9:50 簡介Vibe Coding
-10:00 ~ 10:30 Github , VScode , Copilot
-10:30 ~ 11:50 Vibe APCS Coding I (include Markdown)
+- 9:00 ~ 9:30 什麼是LLM 
+- 9:30 ~ 9:50 簡介Vibe Coding
+- 10:00 ~ 10:30 Github , VScode , Copilot
+- 10:30 ~ 11:50 Vibe APCS Coding I (include Markdown)
 
 
 
